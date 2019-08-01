@@ -1,0 +1,20 @@
+{
+  "name": "projectagile",
+  "version": "1.0.0",
+  "description": "Projeto para Selecao da Agile Solution",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Agile",
+    "Selecao",
+    "Sorte"
+  ],
+  "author": "Mário Marques",
+  "license": "ISC"
+}
